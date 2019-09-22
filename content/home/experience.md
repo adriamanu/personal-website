@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   location = "Metz - France"
   description = """
   Permanent contract as backend developer.
+  Billing api in nodejs.
   Development of node workers that extract data from xml.
   Development of a campaign management api.
   Continuous integration.
@@ -42,6 +43,38 @@ date_format = "Jan 2006"
   * Docker
   * Microsoft Azure
   * Bitbucket + Bitbucket Pipelines
+  
+  Databases:
+
+  * Redis
+  * PostgreSQL
+  * Elasticsearch
+  """
+
+[[experience]]
+  title = "Part-time fullstack-developer"
+  company = "Xtramile"
+  company_url = "https://xtramile.io/"
+  date_start = "2018-11-17"
+  date_end = "2019-03-31"
+  location = "Metz - France"
+  description = """
+  Part-time as fullstack-developer.
+  Development of python workers that extract content from cv / job offer.
+  Elasticsearch client in nodejs.
+  React application.
+
+  Programming languages:
+
+  * Nodejs + Express + Typescript
+  * React
+  * Python
+  
+  Infrastructure:
+
+  * Git
+  * Docker
+  * Microsoft Azure
   
   Databases:
 
