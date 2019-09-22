@@ -27,19 +27,24 @@ date_format = "Jan 2006"
   Permanent contract as backend developer.
   Development of node workers that extract data from xml.
   Development of a campaign management api.
-  Continuous integration
-  ...
+  Continuous integration.
+
   Programming languages:
+
   * Nodejs
   * Typescript
   * Python
   * Bash
+  
   Infrastructure:
+
   * Git
   * Docker
   * Microsoft Azure
   * Bitbucket + Bitbucket Pipelines
+  
   Databases:
+
   * Redis
   * PostgreSQL
   * Elasticsearch
@@ -55,8 +60,11 @@ date_format = "Jan 2006"
   description = """
   Development of a tool that collect data from microsoft project & excel files and generate a
   Gantt diagram.
+
   * Visual Basic
+  
   Development of a new intranet.
+  
   * Jalios cms.
   """
 
@@ -69,7 +77,9 @@ date_format = "Jan 2006"
   location = "Nancy - France"
   description = """
   Development of a Marketplace for selling clothes.
+  
   Technologies:
+  
   * Django
   * PostgreSQL
   * Docker
@@ -88,9 +98,13 @@ date_format = "Jan 2006"
   Development of a ‘Trigger Marketing’ tool which sends personal
   recommendations to clients depending on the behaviour that they have on
   the e-commerce website.
+  
   Front-End:
+  
   * HTML - CSS - Javascript + Jquery
+  
   Back-End:
+  
   * Groovy & Grails
   """
 

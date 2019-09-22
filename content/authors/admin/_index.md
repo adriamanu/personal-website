@@ -60,4 +60,8 @@ email: ""
 
 Hello, I'm Manu, a 22-year-old French backend developer.
 Passionate about programming, I work for Xtramile, a French start-up working in the field of human resources, based at Station-F.
-In my spare time, I like to read literature and mangas, coding or play jrpgs.
+
+In my spare time, I like to:
+* read dark fantasy and mangas (the witcher / berserk ...)
+* code
+* play jrpgs
