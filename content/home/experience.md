@@ -28,8 +28,9 @@ date_format = "Jan 2006"
 
   Tasks:
 
+  * Help team / pull request reviews / ...
   * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
-  * Managing infrastructure and deployment of a tool for our R&D team to allows them to do annotate documents.
+  * Managing infrastructure and deployment of a tool for our R&D team to allows them to annotate documents.
   * Split a monolithic application into microservices.
   * Improvement of our CI/CD pipeline.
 
@@ -67,9 +68,6 @@ date_format = "Jan 2006"
 
   * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
   * Development of APIS using node / typescript / express.
-    * APIS for internal use
-    * APIS of our product XRanking / XJob / Xtracker
-    * https://kong-api.xtramile.io/docs/
   * Development of nodejs workers that extract data from various xml sources.
   * End-to-end testing using cypress.
   * Improvement of our CI/CD pipeline.
