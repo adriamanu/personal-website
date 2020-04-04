@@ -18,31 +18,73 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Lead developer"
+  company = "Xtramile"
+  company_url = "https://xtramile.io/"
+  date_start = "2020-03-16"
+  location = "Metz - France"
+  description = """
+  Permanent contract as lead developer.
+
+  Tasks:
+
+  * Help team / pull request reviews / ...
+  * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
+  * Managing infrastructure and deployment of a tool for our R&D team to allows them to annotate documents.
+  * Split a monolithic application into microservices.
+  * Improvement of our CI/CD pipeline.
+
+  Programming languages:
+
+  * Javascript (nodejs / typescript)
+  * Bash
+  
+  Infrastructure:
+
+  * Git / Bitbucket / Bitbucket pipelines (CI/CD)
+  * Docker
+  * Kubernetes
+  * Datadog
+  * Microsoft Azure Cloud Provider
+  
+  Databases:
+
+  * Redis
+  * PostgreSQL
+  * Elasticsearch
+  """
+
+[[experience]]
   title = "Backend developer"
   company = "Xtramile"
   company_url = "https://xtramile.io/"
   date_start = "2019-04-01"
+  date_end = "2020-03-15"
   location = "Metz - France"
   description = """
   Permanent contract as backend developer.
-  Billing api in nodejs.
-  Development of node workers that extract data from xml.
-  Development of a campaign management api.
-  Continuous integration.
+
+  Tasks:
+
+  * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
+  * Development of APIS using node / typescript / express.
+  * Development of nodejs workers that extract data from various xml sources.
+  * End-to-end testing using cypress.
+  * Improvement of our CI/CD pipeline.
 
   Programming languages:
 
-  * Nodejs
-  * Typescript
+  * Javascript (nodejs / typescript / cypress / react)
   * Python
   * Bash
   
   Infrastructure:
 
-  * Git
+  * Git / Bitbucket / Bitbucket pipelines (CI/CD)
   * Docker
-  * Microsoft Azure
-  * Bitbucket + Bitbucket Pipelines
+  * Kubernetes
+  * Datadog
+  * Microsoft Azure Cloud Provider
   
   Databases:
 
@@ -60,26 +102,24 @@ date_format = "Jan 2006"
   location = "Metz - France"
   description = """
   Part-time as fullstack-developer.
-  Development of python workers that extract content from cv / job offer.
-  Elasticsearch client in nodejs.
-  React application.
+
+  Tasks:
+
+  * Development of python workers that extract content from cvs / job offers.
+  * Custom elasticsearch client in nodejs.
+  * React applications.
 
   Programming languages:
 
-  * Nodejs + Express + Typescript
-  * React
+  * Javascript (nodejs / react)
   * Python
+  * Bash
   
   Infrastructure:
 
-  * Git
+  * Git / Bitbucket
   * Docker
-  * Microsoft Azure
-  
-  Databases:
-
-  * Redis
-  * PostgreSQL
+  * Microsoft Azure Cloud Provider
   * Elasticsearch
   """
 
