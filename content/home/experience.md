@@ -25,11 +25,13 @@ date_format = "Jan 2006"
   location = "Metz - France"
   description = """
   Permanent contract as lead developer.
-  Dev/Ops tasks:
-    - Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
-    - Managing infrastructure and deployment of a tool for our R&D team to allows them to do annotate documents.
-    - Split a monolithic application into microservices.
-    - Improvement of our CI/CD pipeline.
+
+  Tasks:
+
+  * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
+  * Managing infrastructure and deployment of a tool for our R&D team to allows them to do annotate documents.
+  * Split a monolithic application into microservices.
+  * Improvement of our CI/CD pipeline.
 
   Programming languages:
 
@@ -60,14 +62,17 @@ date_format = "Jan 2006"
   location = "Metz - France"
   description = """
   Permanent contract as backend developer.
-  Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
-  Development of APIS using node / typescript / express.
-    - APIS for internal use
-    - APIS of our product XRanking / XJob / Xtracker
-    - https://kong-api.xtramile.io/docs/
-  Development of nodejs workers that extract data from various xml sources.
-  End-to-end testing using cypress.
-  Improvement of our CI/CD pipeline.
+
+  Tasks:
+
+  * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
+  * Development of APIS using node / typescript / express.
+    * APIS for internal use
+    * APIS of our product XRanking / XJob / Xtracker
+    * https://kong-api.xtramile.io/docs/
+  * Development of nodejs workers that extract data from various xml sources.
+  * End-to-end testing using cypress.
+  * Improvement of our CI/CD pipeline.
 
   Programming languages:
 
@@ -99,9 +104,12 @@ date_format = "Jan 2006"
   location = "Metz - France"
   description = """
   Part-time as fullstack-developer.
-  Development of python workers that extract content from cvs / job offers.
-  Custom elasticsearch client in nodejs.
-  React applications.
+
+  Tasks:
+
+  * Development of python workers that extract content from cvs / job offers.
+  * Custom elasticsearch client in nodejs.
+  * React applications.
 
   Programming languages:
 
