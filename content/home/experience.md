@@ -18,40 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Lead developer"
+  title = "Lead developer / Devops"
   company = "Xtramile"
   company_url = "https://xtramile.io/"
   date_start = "2020-03-16"
+  date_end = "2021-07-23"
   location = "Metz - France"
   description = """
-  Permanent contract as lead developer.
+  Permanent contract as lead developer / devops.
 
   Tasks:
 
-  * Help team / pull request reviews / ...
-  * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
-  * Managing infrastructure and deployment of a tool for our R&D team to allows them to annotate documents.
-  * Split a monolithic application into microservices.
-  * Improvement of our CI/CD pipeline.
+  1. Development of a CI/CD pipeline using **bitbucket-pipelines**,**docker**,**azure** and **kubernetes**.
+  2. Development of different command line interfaces with **Nodejs**.
+  3. Deployment of company's R&D team workers on various virtual machines and gpus using **Ansible**.
+  4. Managing company's infrastructure on Azure using **Shell** and **Nodejs** scripts / **Terraform** and **Ansible**.
+  5. Administration of kubernetes clusters.
+  6. Creation, maintenance and improvement of microservices for our applications using **Nodejs** (Typescript for some apis) + **Express** + **Postgresql**/**Elasticsearch**/**Redis**.
+  7. Code reviews and pair programming with other developers.
 
-  Programming languages:
-
-  * Javascript (nodejs / typescript)
-  * Bash
-  
-  Infrastructure:
-
+  Technologies and tools:
+  * Javascript (Nodejs / Typescript)
+  * Shell scripting
   * Git / Bitbucket / Bitbucket pipelines (CI/CD)
-  * Docker
-  * Kubernetes
+  * Docker / Kubernetes
+  * Ansible / Terraform / Microsoft Azure
   * Datadog
-  * Microsoft Azure Cloud Provider
-  
-  Databases:
-
-  * Redis
-  * PostgreSQL
-  * Elasticsearch
+  * Nginx
+  * Redis / PostgreSQL / Elasticsearch
   """
 
 [[experience]]
@@ -62,35 +56,22 @@ date_format = "Jan 2006"
   date_end = "2020-03-15"
   location = "Metz - France"
   description = """
-  Permanent contract as backend developer.
+  Permanent contract as a Backend developer.
 
   Tasks:
 
   * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
-  * Development of APIS using node / typescript / express.
-  * Development of nodejs workers that extract data from various xml sources.
-  * End-to-end testing using cypress.
+  * Development of Xtramile's products using **Nodejs** + **Typescript** + **Express** + **PostgreSQL**/**Elasticsearch**/**Redis**.
+  * Automation scripts using **Nodejs**/**Bash**/**Python**.
+  * End-to-end testing with **Cypress**.
   * Improvement of our CI/CD pipeline.
 
-  Programming languages:
-
-  * Javascript (nodejs / typescript / cypress / react)
-  * Python
-  * Bash
-  
-  Infrastructure:
-
+  Technologies and tools:
+  * Javascript (Nodejs / Typescript / Cypress)
+  * Python / Shell scripting
   * Git / Bitbucket / Bitbucket pipelines (CI/CD)
-  * Docker
-  * Kubernetes
-  * Datadog
-  * Microsoft Azure Cloud Provider
-  
-  Databases:
-
-  * Redis
-  * PostgreSQL
-  * Elasticsearch
+  * Docker / Kubernetes
+  * Redis / PostgreSQL / Elasticsearch
   """
 
 [[experience]]
@@ -105,21 +86,14 @@ date_format = "Jan 2006"
 
   Tasks:
 
-  * Development of python workers that extract content from cvs / job offers.
-  * Custom elasticsearch client in nodejs.
-  * React applications.
+  * Development of **Python** workers and scripts.
+  * Custom Elasticsearch client in **Nodejs**.
+  * Developement a front-end application using **React**.
 
-  Programming languages:
-
-  * Javascript (nodejs / react)
+  Technologies and tools:
+  * Javascript (Nodejs / React)
   * Python
-  * Bash
-  
-  Infrastructure:
-
   * Git / Bitbucket
-  * Docker
-  * Microsoft Azure Cloud Provider
   * Elasticsearch
   """
 
@@ -130,16 +104,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2018-07-31"
   location = "Luxembourg"
-  description = """
-  Development of a tool that collect data from microsoft project & excel files and generate a
-  Gantt diagram.
-
-  * Visual Basic
-  
-  Development of a new intranet.
-  
-  * Jalios cms.
-  """
+  description = """  """
 
 [[experience]]
   title = "Intern"
@@ -149,10 +114,9 @@ date_format = "Jan 2006"
   date_end = "2017-08-31"
   location = "Nancy - France"
   description = """
-  Development of a Marketplace for selling clothes.
+  Development of a marketplace.
   
-  Technologies:
-  
+  Technologies and tools:
   * Django
   * PostgreSQL
   * Docker
@@ -167,18 +131,6 @@ date_format = "Jan 2006"
   date_start = "2015-07-13"
   date_end = "2015-12-24"
   location = "Nancy - France"
-  description = """
-  Development of a ‘Trigger Marketing’ tool which sends personal
-  recommendations to clients depending on the behaviour that they have on
-  the e-commerce website.
-  
-  Front-End:
-  
-  * HTML - CSS - Javascript + Jquery
-  
-  Back-End:
-  
-  * Groovy & Grails
-  """
+  description = """  """
 
 +++
