@@ -105,9 +105,10 @@ date_format = "Jan 2006"
   date_end = "2017-08-31"
   location = "Nancy - France"
   description = """
+  **Mission**:
   Development of a marketplace.
   
-  Technologies and tools:
+  **Technologies and tools**:
   * Django
   * PostgreSQL
   * Docker
