@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Lead developer
+role: Devops
 
 # Organizations/Affiliations
-organizations:
-  - name: Xtramile
-    url: xtramile.io
+# organizations:
+#   - name: Xtramile
+#     url: xtramile.io
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lead developer at Xtramile
+bio: Looking for new adventures!
 
 interests:
+  - Devops
   - Cloud computing
-  - Strongly typed languages
-  - Dark Fantasy & JRPGs
-  - Weightlifting
+  - Dark Fantasy
+  - Boxing
 
 education:
   courses:
@@ -59,6 +59,6 @@ social:
 email: ""
 ---
 
-Hello, I'm Manu, a 23-year-old french developer.
-Passionate about programming, I work for Xtramile, a french start-up working in the field of human resources, based at Station-F.
-In my spare time, I like to read dark fantasy (Conan / Berserk ...), code, play jrpgs or do weightlifting.
+Hello, I'm Manu, a 25-year-old French developer.
+Passionate about programming, I am increasingly turning to the world of Ops and system administration. This site is my curriculum vitae!
+.

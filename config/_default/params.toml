@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "11 rempart Saint-Thiebault", city = "Metz", postcode = "57000", country = "France", country_code = "US"}
+address = {street = "", city = "Nancy", postcode = "54000", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -109,7 +109,7 @@ address = {street = "11 rempart Saint-Thiebault", city = "Metz", postcode = "570
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "github", icon_pack = "fab", name = "my github", link = "https://github.com/adriamanu/"},
+  {icon = "github", icon_pack = "fab", name = "My github", link = "https://github.com/adriamanu/"},
   {icon = "discord", icon_pack = "fab", name = "Add me on discord", link = "https://discordapp.com/channels/@1399"},
 ]
 
