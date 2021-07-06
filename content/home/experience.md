@@ -25,15 +25,16 @@ date_format = "Jan 2006"
   date_end = "2021-07-23"
   location = "Metz - France"
   description = """
+  **Missions**:
   * Development of a CI/CD pipeline using **bitbucket-pipelines**,**docker**,**azure** and **kubernetes**.
-  * Development of different command line interfaces with **Nodejs**.
+  * Development of command line interfaces with **Nodejs**.
   * Deployment of company's R&D team workers on various virtual machines and gpus using **Ansible**.
   * Managing company's infrastructure on Azure using **Shell** and **Nodejs** scripts / **Terraform** and **Ansible**.
   * Administration of kubernetes clusters.
   * Creation, maintenance and improvement of microservices for our applications using **Nodejs** (Typescript for some apis) + **Express** + **Postgresql**/**Elasticsearch**/**Redis**.
   * Code reviews and pair programming with other developers.
 
-  Technologies and tools
+  **Technologies and tools**:
   * Javascript (Nodejs / Typescript)
   * Shell scripting
   * Git / Bitbucket / Bitbucket pipelines (CI/CD)
@@ -52,13 +53,14 @@ date_format = "Jan 2006"
   date_end = "2020-03-15"
   location = "Metz - France"
   description = """
+  **Missions**:
   * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
   * Development of Xtramile's products using **Nodejs** + **Typescript** + **Express** + **PostgreSQL**/**Elasticsearch**/**Redis**.
   * Automation scripts using **Nodejs**/**Bash**/**Python**.
   * End-to-end testing with **Cypress**.
   * Improvement of our CI/CD pipeline.
 
-  Technologies and tools
+  **Technologies and tools**:
   * Javascript (Nodejs / Typescript / Cypress)
   * Python / Shell scripting
   * Git / Bitbucket / Bitbucket pipelines (CI/CD)
@@ -74,11 +76,12 @@ date_format = "Jan 2006"
   date_end = "2019-03-31"
   location = "Metz - France"
   description = """
+  **Missions**:
   * Development of **Python** workers and scripts.
   * Custom Elasticsearch client in **Nodejs**.
   * Developement a front-end application using **React**.
 
-  Technologies and tools
+  **Technologies and tools**:
   * Javascript (Nodejs / React)
   * Python
   * Git / Bitbucket
