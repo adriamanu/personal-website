@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Devops
+role: Devops looking for new challenges!
 
 # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ role: Devops
 #     url: xtramile.io
 
 # Short bio (displayed in user profile at end of posts)
-bio: Looking for new adventures!
+# bio: Looking for new adventures!
 
 interests:
   - Devops
@@ -59,6 +59,6 @@ social:
 email: ""
 ---
 
-Hello, I'm Manu, a 25-year-old French developer.
-Passionate about programming, I am increasingly turning to the world of Ops and system administration. This site is my curriculum vitae!
-.
+Hello, I'm Manu, a 25-year-old French developer.<br>
+Passionate about programming, I am increasingly turning to the world of ops / system administration.<br>
+This site is my curriculum vitae!
