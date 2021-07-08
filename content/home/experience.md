@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Managing company's infrastructure on Azure using **Shell** and **Nodejs** scripts / **Terraform** and **Ansible**.
   * Administration of kubernetes clusters.
   * Creation, maintenance and improvement of microservices for our applications using **Nodejs** (Typescript for some apis) + **Express** + **Postgresql**/**Elasticsearch**/**Redis**.
-  * Code reviews and pair programming with other developers.
+  * Code reviews and pair programing with other developers.
 
   **Technologies and tools**:
   * Javascript (Nodejs / Typescript)
@@ -90,7 +90,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Summer job at IT Service"
-  company = "European court of Justice"
+  company = "European Court of Justice"
   company_url = "https://xtramile.io/"
   date_start = "2018-07-01"
   date_end = "2018-07-31"

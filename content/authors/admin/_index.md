@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Adrian Emmanuel
+name: Emmanuel Adrian
 
 # Username (this should match the folder name)
 authors:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: Master 2 in in computer science
+    - course: Master 2 in computer science
       institution: Epitech Paris - european institute of information technology
       year: 2019
     - course: Master 1 in computer science
@@ -60,5 +60,5 @@ email: ""
 ---
 
 Hello, I'm Manu, a 25-year-old French developer.<br>
-Passionate about programming, I am increasingly turning to the world of ops / system administration.<br>
+Passionate about programing, I am increasingly turning to the world of ops / system administration.<br>
 This site is my curriculum vitae!
